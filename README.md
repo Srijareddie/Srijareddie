@@ -1,15 +1,18 @@
 <h1 align="center">Hello! 👋 I'm Srija Reddy Sripathi</h1>
-<h3 align="center">DevOps Engineer | Software Development | AWS | Azure</h3>
+<h3 align="center">DevOps | Software Development | AWS | Azure</h3>
 
 <p align="center">
   <img src="DevOps team.jpg" alt="Cloud Solutions" width="20%">
 </p>
 
-
-<h3 align="left">About Me:</h3>
+<h3 align="left"> About Me:</h3>
 <p>
-  Rapid learner and effective implementer, driven by an insatiable thirst for knowledge. My aim is to establish a reputation as a reliable and respected resource within any organization
+Rapid learner and effective implementer, driven by an insatiable thirst for knowledge. My aim is to establish a reputation as a reliable and respected resource within any organization
 </p>
+
+<h3 align="left"> Strengths:</h3>
+<p align="left">- 🛠️ Cloud Platforms: AWS (Amazon Web Services), Azure<br>-🔧 CI/CD Tools: Jenkins, GitLab CI/CD, GitHub Actions<br>- 🐳 Containerization and Orchestration: Docker, Kubernetes<br>- 📦 Infrastructure as Code (IaC): Terraform, CloudFormation<br>- 🔐 Configuration Management: Ansible, Chef<br>- 🛡️ Monitoring and Logging: Prometheus, Grafana, ELK Stack<br>- 📊 Database Management: MySQL, PostgreSQL, MongoDB<br>- 💻 Programming Languages: Python, Go, C++<br>- 🔍 Version Control Systems: Git, GitHub</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
