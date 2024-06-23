@@ -2,12 +2,12 @@
 <h3 align="center">DevOps Engineer | Software Development | AWS | Azure</h3>
 
 <p align="center">
-  <img src="hDevOps team.png" alt="Cloud Solutions" width="100%">
+  <img src="DevOps team.jpg" alt="Cloud Solutions" width="30%">
 </p>
 
 <h3 align="left">Skills:</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/<your_username>/<your_repository>/main/icons/aws.png" alt="AWS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/<Srijareddie>/<Srijareddie>/main/icons/Aws.png" alt="AWS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/<your_username>/<your_repository>/main/icons/azure.png" alt="Azure" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/<your_username>/<your_repository>/main/icons/docker.png" alt="Docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/<your_username>/<your_repository>/main/icons/kubernetes.png" alt="Kubernetes" width="40" height="40"/>
